@@ -5,7 +5,11 @@
 ## 上課老師：鄭永斌、梁德容
 
 ## 評分標準：
-3次課後問答15% 6份作業30% 5次Lab 20% 2次GuideNote 10% Term Project
+* 3次課後問答15% 
+* 6份作業30% 
+* 5次Lab 20% 
+* 2次GuideNote 10% 
+* Term Project
 
 ## 日程
 
