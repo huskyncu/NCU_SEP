@@ -1,0 +1,53 @@
+.title {
+    padding-top: 60px;
+    padding-left: 60px;
+}
+
+.main-layout {
+    padding: 7vw;
+    padding-top: 2vw;
+    padding-bottom: 0px;
+    font-size: large;
+    display: flex;
+    flex-direction: row;
+    gap: 75px;
+
+    .col {
+        flex-grow: 0;
+    }
+
+    #ItemContainer {
+        min-width: 200px;
+
+        .item {
+            display: flex;
+            flex-direction: row;
+            gap: 10px;
+        }
+    }
+    
+    .separate-line {
+        border-left: 2px black solid;
+    }
+
+    .button-layout {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        border-left: 2px solid #b6b7b8!important;
+
+        .range-inputs input {
+            width: 100px;
+            display: inline-block;
+        }        
+    }    
+
+    h3 {
+        margin-block: 0px;
+    }
+
+}
+
+
+
+

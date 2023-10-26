@@ -1,0 +1,16 @@
+D:\download\UMLEditor\UMLEditor\bin\Debug\UML Editor.exe.config
+D:\download\UMLEditor\UMLEditor\bin\Debug\UML Editor.exe
+D:\download\UMLEditor\UMLEditor\bin\Debug\UML Editor.pdb
+D:\download\UMLEditor\UMLEditor\bin\Debug\MetroFramework.Design.dll
+D:\download\UMLEditor\UMLEditor\bin\Debug\MetroFramework.dll
+D:\download\UMLEditor\UMLEditor\bin\Debug\MetroFramework.Fonts.dll
+D:\download\UMLEditor\UMLEditor\obj\Debug\UMLEditor.csproj.AssemblyReference.cache
+D:\download\UMLEditor\UMLEditor\obj\Debug\UMLEditor.csproj.SuggestedBindingRedirects.cache
+D:\download\UMLEditor\UMLEditor\obj\Debug\UMLEditor.UMLEditorForm.resources
+D:\download\UMLEditor\UMLEditor\obj\Debug\UMLEditor.Properties.Resources.resources
+D:\download\UMLEditor\UMLEditor\obj\Debug\UMLEditor.Views.Dialogs.RenameDialog.resources
+D:\download\UMLEditor\UMLEditor\obj\Debug\UMLEditor.csproj.GenerateResource.cache
+D:\download\UMLEditor\UMLEditor\obj\Debug\UMLEditor.csproj.CoreCompileInputs.cache
+D:\download\UMLEditor\UMLEditor\obj\Debug\UMLEditor.csproj.CopyComplete
+D:\download\UMLEditor\UMLEditor\obj\Debug\UML Editor.exe
+D:\download\UMLEditor\UMLEditor\obj\Debug\UML Editor.pdb
