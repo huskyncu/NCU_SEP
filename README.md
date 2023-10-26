@@ -37,7 +37,7 @@
 課堂上 10:40 小組 GuideNote
 
 * lab 4 該周二 23:30 due
-* lab 5 第三周 星期一 00:00 due
+* lab 5 第七周 星期一 00:00 due
 
 ### 第八周
 星期一 00:00 繳交 Term Project
